@@ -1,3 +1,11 @@
+/*-------------------------------------------------------*
+ * Disciplina: Programaçao Estruturada e Modular          *
+ *          Prof. Veríssimo                               *
+ *--------------------------------------------------------*
+ * Objetivo do Programa: Calcular notas e exibir media    *
+ * Data - 12/04/2025                                      *
+ * Autor: Gabriel Rossi                                   *
+ *--------------------------------------------------------*/
 #include <stdio.h>
 
 //Função para BubbleSort.
